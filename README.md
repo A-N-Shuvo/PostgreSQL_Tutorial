@@ -2,7 +2,7 @@
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="150" height="150">
 </p>
 
-<h1 align="center">PostgreSQL Learning Journey</h1>
+<h1 align="center">PostgreSQL Learning Journey [**`tutorial.md`**](tutorial.md) file</h1>
 
 <p align="center">
   <strong>A personal repository dedicated to tracking my progress, notes, queries, and resources for mastering PostgreSQL.</strong>
