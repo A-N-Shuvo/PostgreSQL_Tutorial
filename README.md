@@ -12,6 +12,7 @@
 
 ## 📌 Table of Contents
 * [Introduction](#-introduction)
+* [Quick Summary](#-quick-summary)
 * [Learning Resources](#-learning-resources)
 * [Basic SQL Commands](#-basic-sql-commands)
 * [Learning Roadmap & Progress](#-learning-roadmap--progress)
@@ -20,6 +21,12 @@
 
 ## 📖 Introduction
 PostgreSQL is a powerful, open-source object-relational database system (ORDBMS). This repository serves as a centralized hub to store my daily learning notes, practice scripts, database schemas, and optimized queries as I advance from beginner to pro.
+
+---
+
+## 📝 Quick Summary
+> [!NOTE]
+> You can find the complete overview of PostgreSQL concepts and notes in the [**`tutorial.md`**](tutorial.md) file. Click the link to view the detailed summary.
 
 ---
 
@@ -32,14 +39,3 @@ PostgreSQL is a powerful, open-source object-relational database system (ORDBMS)
 * 🏆 **Practice Platforms:** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) | [HackerRank SQL](https://www.hackerrank.com/domains/sql)
 
 ---
-
-## 💻 Basic SQL Commands
-A quick cheat sheet of essential PostgreSQL commands for future reference:
-
-### 1. Database Operations
-```sql
--- Create a new database
-CREATE DATABASE learning_db;
-
--- Delete a database
-DROP DATABASE learning_db;
