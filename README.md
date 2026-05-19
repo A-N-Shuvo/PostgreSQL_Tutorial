@@ -1,0 +1,45 @@
+<p align="center">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="150" height="150">
+</p>
+
+<h1 align="center">PostgreSQL Learning Journey</h1>
+
+<p align="center">
+  <strong>A personal repository dedicated to tracking my progress, notes, queries, and resources for mastering PostgreSQL.</strong>
+</p>
+
+---
+
+## 📌 Table of Contents
+* [Introduction](#-introduction)
+* [Learning Resources](#-learning-resources)
+* [Basic SQL Commands](#-basic-sql-commands)
+* [Learning Roadmap & Progress](#-learning-roadmap--progress)
+
+---
+
+## 📖 Introduction
+PostgreSQL is a powerful, open-source object-relational database system (ORDBMS). This repository serves as a centralized hub to store my daily learning notes, practice scripts, database schemas, and optimized queries as I advance from beginner to pro.
+
+---
+
+## 🔗 Learning Resources
+> [!TIP]
+> Handy links to official documentations, tutorials, and practice platforms.
+
+* 🌐 **Official Documentation:** [PostgreSQL Docs](https://www.postgresql.org/docs/)
+* 📚 **Interactive Tutorials:** [SQLBolt](https://sqlbolt.com/) | [SQLZoo](https://sqlzoo.net/)
+* 🏆 **Practice Platforms:** [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) | [HackerRank SQL](https://www.hackerrank.com/domains/sql)
+
+---
+
+## 💻 Basic SQL Commands
+A quick cheat sheet of essential PostgreSQL commands for future reference:
+
+### 1. Database Operations
+```sql
+-- Create a new database
+CREATE DATABASE learning_db;
+
+-- Delete a database
+DROP DATABASE learning_db;
